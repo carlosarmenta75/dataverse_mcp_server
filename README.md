@@ -87,3 +87,4 @@ Configure your bolt.new app to connect to this MCP server via stdio transport. T
 }
 ```
 # dataverse_mcp_server
+"# dataverse_mcp_server" 
